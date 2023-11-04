@@ -1,14 +1,20 @@
 'use client'
 
+import { useRouter } from 'next/navigation'
+
 import { useState } from 'react'
 import Question from '../components/question'
 
 import QUESTIONS from './../../public/questions.json'
 
 export default function QuestionairePage() {
+    const router = useRouter()
     const [currentCategory, setCurrentCategory] = useState<number>(1)
 
-    const handleNextCategory = () => setCurrentCategory((currentCategory) => currentCategory + 1)
+    const handleNextCategory = () => {
+        if (currentCategory === QUESTIONS.length) router.push('result')
+        else setCurrentCategory((currentCategory) => currentCategory + 1)
+    }
     const handlePreviousCategory = () =>
         setCurrentCategory((currentCategory) => currentCategory - 1)
 
@@ -55,13 +61,11 @@ export default function QuestionairePage() {
                             <p>Previous</p>
                         </div>
                     )}
-                    {currentCategory < QUESTIONS.length && (
-                        <div
-                            className='flex items-center justify-center bg-blue-400 rounded px-4 py-2'
-                            onClick={handleNextCategory}>
-                            <p>Next</p>
-                        </div>
-                    )}
+                    <div
+                        className='flex items-center justify-center bg-blue-400 rounded px-4 py-2'
+                        onClick={handleNextCategory}>
+                        <p>Next</p>
+                    </div>
                 </div>
             </div>
         </div>
