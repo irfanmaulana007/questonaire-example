@@ -1,0 +1,146 @@
+[
+    {
+        "lists": [
+            {
+                "questions": [
+                    {
+                        "label": "PAGE 1 Perusahaan menerapkan sistem pengendalian internal secara umum.",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "label": "Perusahaan menerapkan sistem pengendalian internal khusus pajak",
+                        "questions": [
+                            {
+                                "label": "Divisi atau fungsi dalam perusahaan yang bertanggung jawab atas pengelolaan sistem pengendalian internal khusus pajaka adalah:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            },
+                            {
+                                "label": "Sistem pengendalian internal khusus pajak dinilai dan direview oleh:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            },
+                            {
+                                "label": "Sistem pengendalian internal perusahan memuat hal:hal sebagai berikut:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lists": [
+            {
+                "questions": [
+                    {
+                        "label": "PAGE 2 Perusahaan menerapkan sistem pengendalian internal secara umum.",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "label": "Perusahaan menerapkan sistem pengendalian internal khusus pajak",
+                        "questions": [
+                            {
+                                "label": "Divisi atau fungsi dalam perusahaan yang bertanggung jawab atas pengelolaan sistem pengendalian internal khusus pajaka adalah:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            },
+                            {
+                                "label": "Sistem pengendalian internal khusus pajak dinilai dan direview oleh:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            },
+                            {
+                                "label": "Sistem pengendalian internal perusahan memuat hal:hal sebagai berikut:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lists": [
+            {
+                "questions": [
+                    {
+                        "label": "PAGE 3 Perusahaan menerapkan sistem pengendalian internal secara umum.",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "label": "Perusahaan menerapkan sistem pengendalian internal khusus pajak",
+                        "questions": [
+                            {
+                                "label": "Divisi atau fungsi dalam perusahaan yang bertanggung jawab atas pengelolaan sistem pengendalian internal khusus pajaka adalah:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            },
+                            {
+                                "label": "Sistem pengendalian internal khusus pajak dinilai dan direview oleh:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            },
+                            {
+                                "label": "Sistem pengendalian internal perusahan memuat hal:hal sebagai berikut:",
+                                "answers": [
+                                    { "label": "Divisi pajak perusahaan" },
+                                    { "label": "Divisi audit internal prusahaan" },
+                                    { "label": "Konsultan pajak external" },
+                                    { "label": "" }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
